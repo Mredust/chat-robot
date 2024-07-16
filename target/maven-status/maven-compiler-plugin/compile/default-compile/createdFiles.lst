@@ -1,0 +1,10 @@
+com\mredust\chatrobot\model\ImageMessage$ImageContent.class
+com\mredust\chatrobot\model\ImageMessage.class
+com\mredust\chatrobot\model\MarkdownMessage$MarkdownContent.class
+com\mredust\chatrobot\model\TextMessage$TextContent.class
+com\mredust\chatrobot\config\WebhookConfig.class
+com\mredust\chatrobot\model\TextMessage.class
+com\mredust\chatrobot\messagesender\RtxRobotMessageSender.class
+com\mredust\chatrobot\messagesender\MessageSender.class
+com\mredust\chatrobot\model\MarkdownMessage.class
+com\mredust\chatrobot\model\Message.class
